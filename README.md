@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinySafe API
 
 This RESTful API is used for storing received secrets in a SQLite DB.
@@ -30,3 +31,9 @@ The rationale behind this is simply to allow anyone to write whatever client the
 - Michael Crilly
 - http://mcrilly.me/
 - @mrmcrilly
+=======
+lockerroom
+==========
+
+Locker Room is a simple wrapper around various Go cryptographic offerings
+>>>>>>> 6702bb80e347be88f88ef382d7282e753fef8c32
